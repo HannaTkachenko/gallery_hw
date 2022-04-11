@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+
+.img{
+  box-sizing:border-box;
+  border: 1px solid rgba(0, 100, 0, 0.448);
+  border-radius: 2%;
+  padding: 7px;
+  margin: 7px;
+  display:inline-block;
+  width: 32vw;
+  height: 200px;
+  object-fit: cover;
+  
+}
